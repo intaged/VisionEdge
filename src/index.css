@@ -1,0 +1,28 @@
+:root {
+  --neon-cyan: #08F7FE;
+  --neon-pink: #FF2E63;
+  --neon-green: #39FF14;
+  --gold: #FFD700;
+  --soft-white: #F8F9FA;
+  font-size: 3px; /* Increased from 1px to 3px */
+}
+
+body {
+  margin: 0;
+  font-family: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background-color: #0D0D0D;
+  color: var(--soft-white);
+  overflow-x: hidden;
+  zoom: 0.35; /* Increased from 0.2 to 0.35 */
+  transform: scale(0.45); /* Increased from 0.3 to 0.45 */
+  transform-origin: top left;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+} 
