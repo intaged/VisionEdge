@@ -1,0 +1,12 @@
+{
+  "files": {
+    "main.js": "/VisionEdge/static/js/main.95cbcebf.js",
+    "static/js/453.57dd0e05.chunk.js": "/VisionEdge/static/js/453.57dd0e05.chunk.js",
+    "index.html": "/VisionEdge/index.html",
+    "main.95cbcebf.js.map": "/VisionEdge/static/js/main.95cbcebf.js.map",
+    "453.57dd0e05.chunk.js.map": "/VisionEdge/static/js/453.57dd0e05.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.95cbcebf.js"
+  ]
+}
